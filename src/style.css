@@ -1,0 +1,85 @@
+.main {
+  border: 3px solid lightcoral;
+  margin: 50px;
+}
+.header {
+  border: 3px solid lightblue;
+  margin: 15px;
+  padding: 20px 20px 15px 15px;
+}
+.karada {
+  display: block;
+  text-align: center;
+}
+form {
+  display: block;
+  text-align: center;
+}
+.col {
+  font-size: 25px;
+  position: relative;
+  top: 20px;
+  text-align: center;
+}
+.time {
+  font-family: "Inconsolata", monospace;
+  font-size: 50px;
+  opacity: 50%;
+  position: relative;
+  top: 0;
+  text-align: center;
+}
+.condition {
+  position: relative;
+  top: 20px;
+  font-size: 30px;
+  text-align: right;
+}
+.emoji {
+  font-size: 100px;
+}
+ul {
+  list-style: none;
+  text-align: center;
+  padding: 0%;
+  opacity: 80%;
+  font-size: 15px;
+  margin: 0 auto;
+}
+.units {
+  font-size: 20px;
+  position: relative;
+  bottom: 30px;
+  left: 40px;
+  text-decoration: none;
+}
+#main-temp {
+  font-size: 50px;
+  position: relative;
+  left: 40px;
+}
+h1 {
+  font-size: 60px;
+  position: relative;
+  top: 20px;
+  opacity: 50%;
+  font-style: italic;
+}
+
+.end {
+  border: 3px solid #bfdee5;
+  margin: 30px;
+  padding: 1px 10px 25px 10px;
+}
+.week {
+  text-align: center;
+  font-style: italic;
+  color: grey;
+}
+.tenki {
+  font-size: 50px;
+  margin: 0 auto;
+}
+.temp {
+  font-size: 20px;
+}
