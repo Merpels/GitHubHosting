@@ -83,3 +83,7 @@ h1 {
 .temp {
   font-size: 20px;
 }
+p {
+  font-size: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
